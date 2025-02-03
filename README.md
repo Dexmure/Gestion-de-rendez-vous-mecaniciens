@@ -59,9 +59,9 @@ Cette application web développée en **React** permet aux **clients** de prendr
 ![Mecanicien](Images/details.png)
 
 ### **📜 Facturation et statut**
-![Facturation](images/facturemeca.png)
+![Facturation](images/facture.png)
 
 ### **📜 Etat du rendez-vous**
-![Etat](images/etat%20rendezvous.png)
+![Etat](images/etat.png)
 
 
