@@ -56,7 +56,7 @@ Cette application web développée en **React** permet aux **clients** de prendr
 
 ### **📅 Rendez-vous a traiter**
 ![Mecanicien](Images/choix.png)
-![Mecanicien](Images/details.png.png)
+![Mecanicien](Images/details.png)
 
 ### **📜 Facturation et statut**
 ![Facturation](images/facturemeca.png)
