@@ -39,29 +39,29 @@ Cette application web développée en **React** permet aux **clients** de prendr
 ## 📸 Captures d’écran
 
 ### **🏠 Page d’accueil**
-![Accueil](screenshots/homepage.png)
+![Accueil](Images/Home.png)
+
+### **👥 Client**
+![Client](Images/Client.png)
+
+### **👥 Ajout de vehicules**
+![Vehicules](Images/vehicule.png)
+![Vin](Images/vin.png)
 
 ### **👥 Liste des mécaniciens (DummyJSON)**
-![Mécaniciens](screenshots/mechanics.png)
+![liste](Images/liste.png)
 
 ### **📅 Prise de rendez-vous**
-![Rendez-vous](screenshots/appointment.png)
+![Rendez-vous](Images/rendezvous.png)
+
+### **📅 Rendez-vous a traiter**
+![Mecanicien](Images/choix.png)
+![Mecanicien](Images/details.png.png)
 
 ### **📜 Facturation et statut**
-![Facturation](screenshots/invoice.png)
+![Facturation](images/facturemeca.png)
 
-*(Place tes images dans un dossier `screenshots/` dans ton repo GitHub pour qu’elles s'affichent ici.)*
+### **📜 Etat du rendez-vous**
+![Etat](images/etat%20rendezvous.png)
 
----
 
-## 🚀 Démo (Optionnel)
-Ajoute ici un lien vers une démo déployée sur **Netlify, Vercel ou GitHub Pages** si tu l'as mise en ligne.
-
----
-
-## 🔧 Installation et Exécution
-
-### **1️⃣ Cloner le projet**
-```sh
-git clone https://github.com/TON_GITHUB/mecaniciens-rendezvous.git
-cd mecaniciens-rendezvous
