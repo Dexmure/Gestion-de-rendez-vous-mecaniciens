@@ -64,6 +64,11 @@ Cette application web développée en **React** permet aux **clients** de prendr
 ### **📜 Etat du rendez-vous**
 ![Etat](images/etat.png)
 
+## 🔧 Installation et Exécution
 
+### **1️⃣ Cloner le projet**
+```sh
+git clone https://github.com/TON_GITHUB/mecaniciens-rendezvous.git
+cd mecaniciens-rendezvous
 
 
